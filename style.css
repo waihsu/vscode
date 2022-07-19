@@ -27,6 +27,15 @@
 	margin-bottom: 10px;
 }
 
+.searchbar {
+	display: flex;
+	margin: 0 auto;
+	height: 44px;
+	border: 1px, solid;
+	
+	
+}
+
 input {
 	width: 70%;
 	height: 18px;
@@ -56,3 +65,31 @@ input {
     display: flex;
     justify-content: space-around;
 }
+
+
+
+.ftcontainer {
+	display: flex;
+	width: auto;
+	padding: 20px;
+	margin-top: 250px;
+
+}
+
+
+.footercontainerone {
+	display: flex;
+	width: 55%;
+	justify-content: space-evenly;
+	margin-top: 24px;
+}
+
+.footercontainertwo {
+	display: flex;
+	justify-content: space-evenly;
+	margin-top: 24px;
+	width: 35%;
+
+}
+
+
