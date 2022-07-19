@@ -1,0 +1,58 @@
+.body {
+	background-color: gray;
+}
+
+.fd {
+	display: flex;
+	justify-content: flex-end;
+}
+
+.fditems {
+	padding: 8px;
+}
+
+.usrphoto {
+	border: 10px,solod;
+}
+
+.sdcontainer {
+	
+	
+}
+
+
+.sditem {
+	display: flex;
+	justify-content: center;
+	margin-bottom: 10px;
+}
+
+input {
+	width: 70%;
+	height: 18px;
+}
+
+
+
+.button {
+	display: flex;
+	justify-content: center;
+}
+
+.thirditem {
+	margin-top: 20px;
+	display: flex;
+	justify-content: center;
+}
+
+.ftcontainer {
+
+}
+
+
+.ftfirstitems {
+    margin: 20px;
+    width: 50%;
+    display: flex;
+    justify-content: space-around;
+}
